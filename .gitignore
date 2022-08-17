@@ -9,7 +9,7 @@ lerna-debug.log*
 
 node_modules
 mobile
-coverage
+coverage-final*
 .expo/
 npm-debug.*
 *.jks
